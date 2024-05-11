@@ -1,0 +1,26 @@
+C:\C#\dotNet5784_9936_0895\bin\BL.deps.json
+C:\C#\dotNet5784_9936_0895\bin\BL.dll
+C:\C#\dotNet5784_9936_0895\bin\BL.pdb
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.dll
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\refint\BL.dll
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\BL.pdb
+C:\C#\dotNet5784_9936_0895\BL\obj\Debug\ref\BL.dll
+C:\Github Public Repositories\Project-Management-Software\bin\BL.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\BL.dll
+C:\Github Public Repositories\Project-Management-Software\bin\BL.pdb
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.dll
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\refint\BL.dll
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\BL.pdb
+C:\Github Public Repositories\Project-Management-Software\BL\obj\Debug\ref\BL.dll

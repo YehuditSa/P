@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NextTaskId>10</NextTaskId>
+  <NextDependencyId>15</NextDependencyId>
+  <Dates>
+    <StartProjectDate>2024-01-01T00:00:00</StartProjectDate>
+    <EndProjectDate>2024-01-10T00:00:00</EndProjectDate>
+  </Dates>
+</config>

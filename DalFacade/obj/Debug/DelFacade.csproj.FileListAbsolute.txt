@@ -1,0 +1,11 @@
+C:\C#\dotNet5784_9936_0895\bin\DelFacade.deps.json
+C:\C#\dotNet5784_9936_0895\bin\DelFacade.dll
+C:\C#\dotNet5784_9936_0895\bin\DelFacade.pdb
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.dll
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\refint\DelFacade.dll
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DelFacade.pdb
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\ref\DelFacade.dll

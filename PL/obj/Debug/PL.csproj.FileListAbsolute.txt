@@ -1,0 +1,80 @@
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Engineer\EngineerListWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\MainWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\App.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL_MarkupCompile.cache
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL_MarkupCompile.lref
+C:\C#\dotNet5784_9936_0895\bin\PL.exe
+C:\C#\dotNet5784_9936_0895\bin\PL.deps.json
+C:\C#\dotNet5784_9936_0895\bin\PL.runtimeconfig.json
+C:\C#\dotNet5784_9936_0895\bin\PL.dll
+C:\C#\dotNet5784_9936_0895\bin\PL.pdb
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Engineer\EngineerWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\App.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Engineer\EngineerListWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Engineer\EngineerWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\MainWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.g.resources
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.dll
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\refint\PL.dll
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.pdb
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\ref\PL.dll
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Task\TaskListWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Task\TaskWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Task\TaskListWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Task\TaskWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\EntryWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Manager\ManagerWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\EntryWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Manager\ManagerWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Milestone\MilestoneListWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Milestone\MilestoneWindow.g.cs
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Milestone\MilestoneListWindow.baml
+C:\C#\dotNet5784_9936_0895\PL\obj\Debug\Milestone\MilestoneWindow.baml
+C:\Github Public Repositories\Project-Management-Software\bin\PL.exe
+C:\Github Public Repositories\Project-Management-Software\bin\PL.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\PL.runtimeconfig.json
+C:\Github Public Repositories\Project-Management-Software\bin\PL.dll
+C:\Github Public Repositories\Project-Management-Software\bin\PL.pdb
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.csproj.AssemblyReference.cache
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Engineer\EngineerListWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Engineer\EngineerWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\EntryWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\MainWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Manager\ManagerWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Milestone\MilestoneListWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Milestone\MilestoneWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Task\TaskListWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Task\TaskWindow.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\App.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL_MarkupCompile.cache
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL_MarkupCompile.lref
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\App.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Engineer\EngineerListWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Engineer\EngineerWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\EntryWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\MainWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Manager\ManagerWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Milestone\MilestoneListWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Milestone\MilestoneWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Task\TaskListWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\Task\TaskWindow.baml
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.g.resources
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.dll
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\refint\PL.dll
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.pdb
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\PL.genruntimeconfig.cache
+C:\Github Public Repositories\Project-Management-Software\PL\obj\Debug\ref\PL.dll

@@ -1,0 +1,16 @@
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\bin\BlTest.exe
+C:\C#\dotNet5784_9936_0895\bin\BlTest.deps.json
+C:\C#\dotNet5784_9936_0895\bin\BlTest.runtimeconfig.json
+C:\C#\dotNet5784_9936_0895\bin\BlTest.dll
+C:\C#\dotNet5784_9936_0895\bin\BlTest.pdb
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.dll
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\refint\BlTest.dll
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.pdb
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+C:\C#\dotNet5784_9936_0895\BlTest\obj\Debug\ref\BlTest.dll

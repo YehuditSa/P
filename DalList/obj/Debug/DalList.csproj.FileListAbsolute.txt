@@ -1,0 +1,26 @@
+C:\C#\dotNet5784_9936_0895\bin\DalList.deps.json
+C:\C#\dotNet5784_9936_0895\bin\DalList.dll
+C:\C#\dotNet5784_9936_0895\bin\DalList.pdb
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.dll
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\refint\DalList.dll
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\DalList.pdb
+C:\C#\dotNet5784_9936_0895\DalList\obj\Debug\ref\DalList.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalList.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\DalList.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalList.pdb
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.dll
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\refint\DalList.dll
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\DalList.pdb
+C:\Github Public Repositories\Project-Management-Software\DalList\obj\Debug\ref\DalList.dll

@@ -1,0 +1,85 @@
+﻿<Window x:Class="PL.Milestone.MilestoneListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL.Milestone"
+        mc:Ignorable="d"
+        Title="MilestoneListWindow" Height="450" Width="800"
+        DataContext="{Binding RelativeSource={RelativeSource Mode=Self}}">
+
+    <Window.Resources>
+        <ResourceDictionary>
+
+            <SolidColorBrush x:Key="BackgroundColor" Color="#D2363C" />
+            <SolidColorBrush x:Key="ButtonBackgroundColor" Color="Black" />
+            <SolidColorBrush x:Key="ButtonForegroundColor" Color="#D2363C" />
+            <SolidColorBrush x:Key="TextBoxBackgroundColor" Color="#D2363C" />
+            <SolidColorBrush x:Key="TextBoxForegroundColor" Color="Black" />
+
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="{StaticResource ButtonBackgroundColor}" />
+                <Setter Property="Foreground" Value="{StaticResource ButtonForegroundColor}" />
+                <Setter Property="FontWeight" Value="Bold" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="Margin" Value="10" />
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="Cursor" Value="Hand" />
+            </Style>
+
+            <Style TargetType="ComboBox">
+                <Setter Property="Background" Value="{StaticResource TextBoxBackgroundColor}" />
+                <Setter Property="Foreground" Value="{StaticResource TextBoxForegroundColor}" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="5" />
+                <Setter Property="Padding" Value="5" />
+            </Style>
+
+            <Style TargetType="ListView">
+                <Setter Property="Background" Value="{StaticResource TextBoxBackgroundColor}" />
+                <Setter Property="Foreground" Value="{StaticResource TextBoxForegroundColor}" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="5" />
+                <Setter Property="Padding" Value="5" />
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="Foreground" Value="{StaticResource TextBoxForegroundColor}" />
+                <Setter Property="FontSize" Value="14" />
+                <Setter Property="Margin" Value="5" />
+                <Setter Property="Padding" Value="5" />
+            </Style>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush Opacity="0.8" ImageSource="../background.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40*"/>
+            <RowDefinition Height="500*"/>
+        </Grid.RowDefinitions>
+        <Grid HorizontalAlignment="Stretch" Height="auto" Grid.Row="0" VerticalAlignment="Stretch" Width="auto">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Column="0" FontSize="12"  FontWeight="Bold" HorizontalAlignment="Left"   Content="Select Level:" Margin="183,4,0,0" Height="27" VerticalAlignment="Top" />
+            <ComboBox Grid.Column="1" FontSize="10"  SelectedValue="{Binding Path=Status, Mode=TwoWay}" SelectionChanged="cbStatusSelector_SelectionChanged" ItemsSource="{Binding Source={StaticResource MilestoneStatusExperienceCollectionKey}}" HorizontalAlignment="Left" Margin="5,9,0,1" Width="128"/>
+            <Button Grid.Column="1"  Content="Clear Filter" Click="btnShowAll_Click" Visibility="{Binding IsShowButton, Mode=TwoWay, Converter={StaticResource ConvertBoolToVisibilityKey }}" Margin="233,6,174,0" Grid.ColumnSpan="2"/>
+        </Grid>
+
+        <ListView MouseDoubleClick="btnUpdateMilestone_MDClick" Grid.Row="1" ItemsSource="{Binding Path=MilestoneList}" Margin="10" SelectionChanged="ListView_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="ID" Width="70" DisplayMemberBinding="{Binding Path=Id}" />
+                    <GridViewColumn Header="Description" Width="275" DisplayMemberBinding="{Binding Path=Description}"/>
+                    <GridViewColumn Header="Alias" Width="100" DisplayMemberBinding="{Binding Path=Alias}" />
+                    <GridViewColumn Header="Status" Width="160" DisplayMemberBinding="{Binding Path=Status}" />
+                    <GridViewColumn Header="Completion Percentage" Width="160" DisplayMemberBinding="{Binding Path=CompletionPercentage}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

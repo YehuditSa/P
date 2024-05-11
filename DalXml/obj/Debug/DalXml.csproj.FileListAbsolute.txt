@@ -1,0 +1,26 @@
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\bin\DalXml.deps.json
+C:\C#\dotNet5784_9936_0895\bin\DalXml.dll
+C:\C#\dotNet5784_9936_0895\bin\DalXml.pdb
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.dll
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\refint\DalXml.dll
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\DalXml.pdb
+C:\C#\dotNet5784_9936_0895\DalXml\obj\Debug\ref\DalXml.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalXml.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\DalXml.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalXml.pdb
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.csproj.AssemblyReference.cache
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.csproj.CopyComplete
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.dll
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\refint\DalXml.dll
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\DalXml.pdb
+C:\Github Public Repositories\Project-Management-Software\DalXml\obj\Debug\ref\DalXml.dll

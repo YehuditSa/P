@@ -1,0 +1,43 @@
+C:\C#\dotNet5784_9936_0895\bin\DalTest.exe
+C:\C#\dotNet5784_9936_0895\bin\DalTest.deps.json
+C:\C#\dotNet5784_9936_0895\bin\DalTest.runtimeconfig.json
+C:\C#\dotNet5784_9936_0895\bin\DalTest.dll
+C:\C#\dotNet5784_9936_0895\bin\DalTest.pdb
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.dll
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\refint\DalTest.dll
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.pdb
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\C#\dotNet5784_9936_0895\DelTest\obj\Debug\ref\DalTest.dll
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.dll
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\refint\DalTest.dll
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.pdb
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\C#\dotNet5784_9936_0895\DalTest\obj\Debug\ref\DalTest.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalTest.exe
+C:\Github Public Repositories\Project-Management-Software\bin\DalTest.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\DalTest.runtimeconfig.json
+C:\Github Public Repositories\Project-Management-Software\bin\DalTest.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalTest.pdb
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.csproj.AssemblyReference.cache
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.csproj.CopyComplete
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.dll
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\refint\DalTest.dll
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.pdb
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\DalTest.genruntimeconfig.cache
+C:\Github Public Repositories\Project-Management-Software\DalTest\obj\Debug\ref\DalTest.dll

@@ -1,0 +1,30 @@
+C:\C#\dotNet5784_9936_0895\bin\DalFacade.deps.json
+C:\C#\dotNet5784_9936_0895\bin\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\bin\DalFacade.pdb
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\refint\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\DalFacade.pdb
+C:\C#\dotNet5784_9936_0895\DelFacade\obj\Debug\ref\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\DalFacade.pdb
+C:\C#\dotNet5784_9936_0895\DalFacade\obj\Debug\ref\DalFacade.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalFacade.deps.json
+C:\Github Public Repositories\Project-Management-Software\bin\DalFacade.dll
+C:\Github Public Repositories\Project-Management-Software\bin\DalFacade.pdb
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.AssemblyInfoInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.AssemblyInfo.cs
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.csproj.CoreCompileInputs.cache
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.dll
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\refint\DalFacade.dll
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\DalFacade.pdb
+C:\Github Public Repositories\Project-Management-Software\DalFacade\obj\Debug\ref\DalFacade.dll
